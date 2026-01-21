@@ -1,6 +1,6 @@
 # Estruturas Compostas em Python
 
-Curso introdutório de **Estruturas de Dados Compostas em Python**, utilizando a temática de **RPG/Fantasia** para tornar o aprendizado mais envolvente para alunos do Ensino Médio (≈15 anos).
+Curso introdutório de **Estruturas de Dados Compostas em Python**, utilizando a temática de **RPG/Fantasia** para tornar o aprendizado mais envolvente para alunos do Ensino Médio.
 
 O curso é pensado para ser **simples, progressivo e prático**, focando na compreensão das estruturas antes da integração em um sistema completo.
 
