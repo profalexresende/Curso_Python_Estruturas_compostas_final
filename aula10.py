@@ -1,4 +1,4 @@
-# Aula 01 – Introdução às Estruturas Compostas
+# Aula 07 – Introdução às Estruturas Compostas
 
 # Lista de personagens (Lista de Dicionários)
 personagens = [
@@ -16,7 +16,7 @@ personagens = [
 ]
 
 
-# Aula 02 – Criação de Personagens com Estruturas Compostas
+# Aula 08 – Criação de Personagens com Estruturas Compostas
 
 # Lista que armazenará todos os personagens
 personagens = []
@@ -38,7 +38,7 @@ def criar_personagem():
     personagens.append(personagem)
 
 
-# Aula 03 – Inventário do Personagem
+# Aula 09 – Inventário do Personagem
 
 # Função para adicionar um item ao inventário de um personagem
 def adicionar_item_inventario():
@@ -61,7 +61,7 @@ def adicionar_item_inventario():
     print("Personagem não encontrado.\n")
 
 
-# Aula 04 – Exibir inventário do personagem
+# Aula 10 – Exibir inventário do personagem
 
 def exibir_inventario():
     nome = input("Nome do personagem: ")
